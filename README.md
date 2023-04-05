@@ -10,7 +10,7 @@
 - 👯 I’m looking to collaborate on **App & Web development projects**
 - 📫 You can reach me at my email **lakshay6447@gmail.com or l.lakshay@iitg.ac.in**
 <br/>
-<h2 align="left"> Favorite Tech  <img src="https://media.giphy.com/media/2IudUHdI075HL02Pkk/giphy.gif?cid=ecf05e47itqc80e1x60twngoz103knj3697v6iubd9h7yi6l&rid=giphy.gif&ct=g" width="50"></h2>
+<h2 align="left"> Favourite Tech  <img src="https://media.giphy.com/media/2IudUHdI075HL02Pkk/giphy.gif?cid=ecf05e47itqc80e1x60twngoz103knj3697v6iubd9h7yi6l&rid=giphy.gif&ct=g" width="50"></h2>
 
 > Tools, languages, and other things that I like to work with.
 <table>
