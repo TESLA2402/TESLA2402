@@ -3,7 +3,8 @@
 </em></p>
 
 [![Linkedin: Lakshay](https://img.shields.io/badge/-Lakshay-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/Lakshay/)](https://www.linkedin.com/in/lakshay6447/)
-![Visitors](https://visitor-badge.deta.dev/badge?page_id=TESLA2402.TESLA2402)  
+<img src="https://komarev.com/ghpvc/?username=TESLA2402&label=Visitors%20&color=0e75b6&style=flat" alt="TESLA2402" />
+<!--- ![Visitors](https://komarev.com/ghpvc/?username=TESLA2402&label=Profile%20views&color=0e75b6&style=flat" alt="TESLA2402")  --->
 <br>
 - 🔭 I’m currently working on Competitive programming
 - 👨 Connect with me on [**Linkedin**](https://www.linkedin.com/in/lakshay6447/)
