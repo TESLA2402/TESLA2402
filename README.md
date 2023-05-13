@@ -114,6 +114,23 @@
       <br>Mongo DB
     </td>
   </tr>
+  <tr>
+    <td align="center" width="96">
+      <a href="#Lakshay-tech" >
+        <img src="https://github.com/TESLA2402/TESLA2402/blob/main/tauri.svg" width="48" height="48" alt="Tauri" />
+      </a>
+      <br>Tauri
+    </td>
+    <td align="center" width="96">
+      <a href="#Lakshay-tech" >
+        <img src="https://github.com/TESLA2402/TESLA2402/blob/main/Rust_programming_language_black_logo.svg.png" width="48" height="48" alt="Rust" />
+      </a>
+      <br>Rust
+    </td>
+    
+    
+  
+  </tr>
 </table>
 <br/>
 
