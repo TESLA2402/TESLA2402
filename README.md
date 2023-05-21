@@ -127,6 +127,12 @@
       </a>
       <br>Rust
     </td>
+    <td align="center" width="96">
+      <a href="#Lakshay-tech" >
+        <img src="https://github.com/TESLA2402/TESLA2402/blob/main/supabase-logo-icon.png" width="48" height="48" alt="Rust" />
+      </a>
+      <br>Supabase
+    </td>
     
     
   
