@@ -133,9 +133,12 @@
       </a>
       <br>Supabase
     </td>
-    
-    
-  
+    <td align="center" width="96">
+      <a href="#Lakshay-tech">
+        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/go/go-original-wordmark.svg" width="48" height="48" alt="Go" />
+      </a>
+      <br>Go
+    </td>
   </tr>
 </table>
 <br/>
