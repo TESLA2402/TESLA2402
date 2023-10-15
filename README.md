@@ -147,3 +147,11 @@
 | Top Languages | My Stats | Streak Stats |
 |-|-|-|
 |  ![alt text](https://github-readme-stats.vercel.app/api/top-langs?username=TESLA2402&show_icons=true&locale=en&langs_count=8&layout=compact)  | ![alt text](https://github-readme-stats.vercel.app/api?username=TESLA2402&show_icons=true&locale=en) | ![alt text](https://github-readme-streak-stats.herokuapp.com/?user=TESLA2402&) |
+
+<h2 align="left"> Contribution Graph </h2>
+<p>
+<a href="https://github.com/TESLA2402">
+ <img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=TESLA2402&bg_color=fffff0&color=708090&line=24292e&point=24292e&area=true&hide_border=true"/>
+</a>
+
+</p>
