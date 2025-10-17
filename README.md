@@ -1,4 +1,3 @@
-![Profile](https://github.com/TESLA2402/TESLA2402/blob/main/profile_banner.png)
 <h2> Hi, I'm Lakshay! <img src="https://media.giphy.com/media/u2pmTWUi0MXjyrMaVj/giphy.gif?cid=ecf05e47zehjrfebqmr7dux9ttu7j5xp4j4y1cn3jlkde0xw&rid=giphy.gif&ct=g" width="50"></h2>
 <p><em>Student at <a href="http://iitg.ac.in">Indian Institute of Technology Guwahati</a>
 </em></p>
