@@ -5,9 +5,7 @@
 [![Linkedin: Lakshay](https://img.shields.io/badge/-Lakshay-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/Lakshay/)](https://www.linkedin.com/in/lakshay6447/)
 <img src="https://komarev.com/ghpvc/?username=TESLA2402&label=Visitors%20&color=0e75b6&style=flat" alt="TESLA2402" />
 <br>
-- 🔭 I’m currently working on Competitive programming
 - 👨 Connect with me on [**Linkedin**](https://www.linkedin.com/in/lakshay6447/)
-- 👯 I’m looking to collaborate on **App & Web development projects**
 - 📫 You can reach me at my email **lakshay6447@gmail.com or l.lakshay@iitg.ac.in**
 <br/>
 <h2 align="left"> Favourite Tech  <img src="https://media.giphy.com/media/2IudUHdI075HL02Pkk/giphy.gif?cid=ecf05e47itqc80e1x60twngoz103knj3697v6iubd9h7yi6l&rid=giphy.gif&ct=g" width="50"></h2>
