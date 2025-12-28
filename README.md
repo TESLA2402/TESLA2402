@@ -144,7 +144,7 @@
 <h2 align="left"> Contribution Graph </h2>
 <p>
 <a href="https://github.com/TESLA2402">
- <img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=TESLA2402&bg_color=fffff0&color=708090&line=24292e&point=24292e&area=true&hide_border=true"/>
+ <img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=TESLA2402&bg_color=0d1117&color=58a6ff&line=1f6feb&point=58a6ff&area=true&hide_border=true"/>
 </a>
 
 </p>
